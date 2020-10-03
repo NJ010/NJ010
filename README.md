@@ -27,9 +27,9 @@ Hi, I'm Naman Jain, a Full Stack Developer 🚀 from India, currently, I'm Looki
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working Development and Competitive Programming;
+- 🌱 I’m currently learning Web Dev. and C++; 
+- 💬 Also Writing Blogs about algorithms and competitive Programming on GFG;
 - 📫 How to reach me: [@NAMAN_JAIN](https://www.instagram.com/_n_a_m_a_n_jain/);
 - 📝[Resume](https://drive.google.com/file/d/1PKihrzpiQAPfmp-5dceYa9tMnEPdB8T_/view?usp=sharing)
 
