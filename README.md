@@ -21,7 +21,7 @@
 <br>
 <br>
 
-Hi, I'm Naman Jain, a Full Stack Developer 🚀 from India, currently, I'm Looking for SDE full time opportunities 🙍🏽‍♂️. Beside's programming, I enjoy eating food ,traveling and  Technical Content Writing .
+Hi, I'm Naman Jain, a Full Stack Developer 🚀 from India, currently, I'm Looking for SDE full time opportunities 🙍🏽‍♂️. Beside's programming, I enjoy trying different varieties of food ,traveling and  Technical Content Writing .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
