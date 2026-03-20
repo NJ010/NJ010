@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hey, I'm Naman Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Software Development Engineer II**
+
 
 *I build backend systems, wrangle unruly data pipelines, and keep platform infrastructure from catching fire.*
 *I specialize in making sure massive amounts of data get from Point A to Point B — quickly, safely, and without anyone noticing the complex machinery running under the hood.*
