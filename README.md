@@ -1,69 +1,63 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm Naman Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+**Software Development Engineer II @ Flipkart**
 
-<a href="https://www.linkedin.com/in/naman-jain-6b6774168/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_n_a_m_a_n_jain/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/nj010/profile">
-  <img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://codeforces.com/profile/njstar010">
-  <img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://leetcode.com/nj010/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+I build and scale backend systems, data pipelines, and platform infrastructure. Currently architecting Flipkart's next-gen tax data platform processing 1 TB/day with a roadmap to multi-terabyte scale.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanjain010)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/nj010/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nj010/profile)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/njstar010)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jain.namanref@gmail.com)
 
-<br>
-<br>
+---
 
-Hi, I'm Naman Jain, a Full Stack Developer 🚀 from India, currently, I'm Looking for SDE full time opportunities 🙍🏽‍♂️. Beside's programming, I enjoy trying different varieties of food ,traveling and  Technical Content Writing .
+### What I'm working on
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+- Owning the architecture of a **tax data platform** built on Apache Iceberg, Spark, and Trino (5-engineer team)
+- Led the development of an **MCP server** that automates developer workflows and enables seamless debugging
+- Spearheading AI adoption (Cursor AI, GitHub Copilot) across the Accounting org
 
-- 👨🏽‍💻 I’m currently learning Development and Competitive Programming;
-- 🌱 I’m currently learning Web Dev. and C++; 
-- 💬 Also Writing Blogs about algorithms and competitive Programming on GFG;
-- 📫 How to reach me: [@NAMAN_JAIN](https://www.instagram.com/_n_a_m_a_n_jain/);
-- 📝[Resume](https://drive.google.com/file/d/1PKihrzpiQAPfmp-5dceYa9tMnEPdB8T_/view?usp=sharing)
+### Highlights
 
-**Languages and Tools:**  
+- Rewrote a legacy Ruby service in **Go** — cut response time by **75%** (120ms → 30ms)
+- Built data pipelines handling **$70M+ daily payouts** (Axis Bank ↔ Flipkart integration, CEO's office initiative)
+- Migrated services to **Kubernetes**, improving performance by 20%
+- Reduced daily pipeline error rates from **1% → ~0%** (Apache Storm topology redesign)
+- Built a Python CLI that cut seller onboarding time by **99%** (hours → seconds)
+- Migrated cold storage from **AWS → GCP** with zero downtime
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/vue.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
-📊 **This month I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++ (Competitive Coding)      ████████████▓░░░░░░░░░░░░   50 % 
-JavaScript (Back-End)         ███████▓░░░░░░░░░░░░░░░░░   30 % 
-HTML/CSS Front-End            █████░░░░░░░░░░░░░░░░░░░░   15 % 
-Git                           █░░░░░░░░░░░░░░░░░░░░░░░░   5  % 
+### Tech Stack
+
 ```
-<!--END_SECTION:waka-->
+Languages      Java · Go · Python · Ruby · C++
+Data           Apache Spark · Kafka · Apache Storm · HBase · Apache Iceberg · Trino
+Databases      MySQL · MongoDB · HBase
+Infrastructure Kubernetes · Docker · CI/CD · AWS · GCP
+```
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NJ010&show_icons=true&theme=gotham" alt="Naman Jain" />
+### GitHub Stats
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NJ010&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
------
-Credits: [Naman Jain](https://github.com/NJ010)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NJ010&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Last Edited on: 10/03/2020
+---
+
+### Education
+
+**Thapar Institute of Technology, Patiala** — B.E. in Computer & Electronics Engineering (2017–2021)
+
+---
+
+<p align="center">
+  <i>Awarded Ace, Value Champions, and multiple team awards at Flipkart</i>
+</p>
