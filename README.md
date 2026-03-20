@@ -40,8 +40,3 @@ Databases      MySQL · MongoDB · HBase
 Infrastructure Kubernetes · Docker · CI/CD · AWS · GCP
 ```
 
----
-
-### Education
-
-**Thapar Institute of Technology, Patiala** — B.E. in Computer & Electronics Engineering (2017–2021)
