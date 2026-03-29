@@ -5,7 +5,7 @@
 
 
 *I build backend systems, wrangle unruly data pipelines, and keep platform infrastructure from catching fire.*
-*I specialize in making sure massive amounts of data get from Point A to Point B — quickly, safely, and without anyone noticing the complex machinery running under the hood.*
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanjain010)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nj010/)
